@@ -1,1 +1,1 @@
-# vagrant_base_laml
+# Vagrant base LAMP
